@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Hello Github!
-Creating a nwz branch is quick.
+Creating a nwz branch is quick & simple.
